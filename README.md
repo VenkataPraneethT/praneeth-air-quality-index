@@ -1,3 +1,21 @@
+Notes:
+
+Time taken to develop - 5hrs
+
+Time taken to design - 1hr
+
+Time taken to study the graph libraries - 2hr
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
